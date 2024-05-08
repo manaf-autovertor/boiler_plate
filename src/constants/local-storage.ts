@@ -1,3 +1,3 @@
 export enum LocalStorage {
-    USER_KEY = "PIXOT_USER",
+    USER_KEY = "LOS_USER",
 }
