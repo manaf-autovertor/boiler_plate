@@ -2,7 +2,7 @@
 
 const ConfirmBox = () => {
   return (
-    <div>ConfirmBox</div>
+    <div>COMPONENT 1</div>
   )
 }
 

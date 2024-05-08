@@ -1,9 +1,11 @@
+import { Typography } from "@mui/material"
 import ConfirmBox from "./components/ConfirmBox"
 
 const Home = () => {
   return (
     <>
-      <div>Home</div>
+      <div className="">Home</div>
+      <Typography  color="primary">HEAD 1</Typography>
       <ConfirmBox />
     </>
   )
